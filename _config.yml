@@ -23,7 +23,7 @@ title: Jingzong's Blog
 description: >- # this means to ignore newlines until "baseurl:"
   A Oier from HZYZ
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jingzong41.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  jingzong41
 
